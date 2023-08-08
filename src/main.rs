@@ -17,14 +17,14 @@ fn read_csv_file(path: &String) -> Result<()> {
     let mut rdr = csv::Reader::from_reader(reader);
     let mut patient_list: Vec<PatientSummary> = vec![];
     for result in rdr.deserialize() {
-        let mut record: PatientSummary = result.expect("a csv record");
+        let record: PatientSummary = result.expect("a csv record");
 
         patient_list.push(record.clone());
         //let mut patient: PatientSummary = PatientSummary::default();
         //let mut patient_record = StringRecord::default();
         //patient = record.deserialize(Some(&patient_record))?;
     }
-    println!("{:?}", patient_list.len());
+    println!("{:?}", patient_list.get(0).unwrap());
     Ok(())
 }
 
