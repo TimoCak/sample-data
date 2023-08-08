@@ -1,8 +1,6 @@
 use sample_data::model::PatientSummary;
 use std::{fs::File, io::BufReader, io::Result, vec};
 
-
-
 //type PatientSummary = HashMap<String, String>;
 
 fn main() -> Result<()> {
@@ -52,5 +50,5 @@ fn get_file_paths() -> Vec<String> {
         "./DataTables/tblADataRTCGM_Unblinded_RTCGMGroup_10.csv".to_string(),
         "./DataTables/tblADataRTCGM_Unblinded_RTCGMGroup_11.csv".to_string(),
         "./DataTables/tblADataRTCGM_Unblinded_RTCGMGroup_12.csv".to_string(),
-        ]
+    ]
 }
