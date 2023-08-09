@@ -52,10 +52,12 @@ fn filter_data() -> Result<()> {
     let time_stamp = Instant::now();
     let mut measurements: Vec<GlucoseMeasure> = vec![];
 
-    let iter = read_rtcgm_data()?;
+    let glucose_iter = read_rtcgm_data()?;
 
-    for patient_summary in read_summary_csv_file(get_file_paths().get(0).unwrap())? {
-        for glucose_measure_entry in &iter {
+    let summary_patient_iter = read_summary_csv_file(get_file_paths().get(0).unwrap())?;
+
+    for patient_summary in &summary_patient_iter {
+        for glucose_measure_entry in &glucose_iter {
             if glucose_measure_entry.PtID == patient_summary.PtID {
                 let glucose_measure = GlucoseMeasure {
                     deviceDtTm: glucose_measure_entry.DeviceDtTm.to_owned(),
@@ -69,22 +71,22 @@ fn filter_data() -> Result<()> {
             ptID: patient_summary.PtID,
             gender: patient_summary.Gender,
             age: patient_summary.AgeAsOfRandDt,
-            race: patient_summary.Race,
-            ethnicity: patient_summary.Ethnicity,
+            race: patient_summary.Race.to_owned(),
+            ethnicity: patient_summary.Ethnicity.to_owned(),
             height: patient_summary.Height,
             weight: patient_summary.Weight,
             davDiabetes: patient_summary.DavDiabetes,
-            insulinModality: patient_summary.InsulinModality,
-            numSevHypo: patient_summary.NumSevHypo,
+            insulinModality: patient_summary.InsulinModality.to_owned(),
+            numSevHypo: patient_summary.NumSevHypo.to_owned(),
             hgmReadAvg: match patient_summary.HGMReadAvg {
                 Some(v) => v,
                 None => -1,
             },
-            eduCareGvrP: patient_summary.EduCareGvrP,
-            eduCareGvrPEdu: patient_summary.EduCareGvrPEdu,
-            date: patient_summary.RandDt,
-            txGroup: patient_summary.TxGroup,
-            subStudyGrp: patient_summary.SubStudyGrp,
+            eduCareGvrP: patient_summary.EduCareGvrP.to_owned(),
+            eduCareGvrPEdu: patient_summary.EduCareGvrPEdu.to_owned(),
+            date: patient_summary.RandDt.to_owned(),
+            txGroup: patient_summary.TxGroup.to_owned(),
+            subStudyGrp: patient_summary.SubStudyGrp.to_owned(),
             measurements: measurements,
         };
         write_json(patient.clone(), patient.ptID)?;
