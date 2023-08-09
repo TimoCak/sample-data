@@ -1,9 +1,11 @@
 use sample_data::model::{GlucoseMeasure, GlucoseMeasureEntry, Patient, PatientSummary};
-use std::{fs::write, fs::File, io::BufReader, io::Result, vec, fs::create_dir};
+use std::{fs::write, fs::File, io::BufReader, io::Result, vec, fs::create_dir_all, time::Instant};
 
 fn main() -> Result<()> {
-    create_dir("./OutputJson")?;
+    let time_stamp = Instant::now();
+    create_dir_all("./OutputJson")?;
     filter_data()?;
+    println!("script took {}min", time_stamp.elapsed().as_secs_f32() / 60.0);
     Ok(())
 }
 
@@ -43,6 +45,7 @@ fn read_rtcgm_data() -> Result<Vec<GlucoseMeasureEntry>> {
 }
 
 fn filter_data() -> Result<()> {
+    let time_stamp = Instant::now();
     let mut measurements: Vec<GlucoseMeasure> = vec![];
 
     for patient_summary in read_summary_csv_file(get_file_paths().get(0).unwrap())? {
@@ -81,6 +84,7 @@ fn filter_data() -> Result<()> {
         write_json(patient.clone(), patient.ptID)?;
         println!("wrote patient into file: {:?}", patient.ptID);
         measurements = vec![];
+        println!("script mean time: {}min\n", time_stamp.elapsed().as_secs_f32() / 60.0);
     }
 
     Ok(())
