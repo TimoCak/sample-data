@@ -1,15 +1,13 @@
 use sample_data::model::PatientSummary;
 use std::{fs::File, io::BufReader, io::Result, vec};
 
-//type PatientSummary = HashMap<String, String>;
-
 fn main() -> Result<()> {
-    read_csv_file(get_file_paths().get(0).unwrap())?;
+    read_summary_csv_file(get_file_paths().get(0).unwrap())?;
 
     Ok(())
 }
 
-fn read_csv_file(path: &String) -> Result<()> {
+fn read_summary_csv_file(path: &String) -> Result<()> {
     let f = File::open(path)?;
 
     let reader = BufReader::new(f);
@@ -20,11 +18,8 @@ fn read_csv_file(path: &String) -> Result<()> {
         let record: PatientSummary = result.expect("a csv record");
 
         patient_list.push(record.clone());
-        //let mut patient: PatientSummary = PatientSummary::default();
-        //let mut patient_record = StringRecord::default();
-        //patient = record.deserialize(Some(&patient_record))?;
     }
-    println!("{:?}", patient_list.get(0).unwrap());
+    println!("{:?}", patient_list.len());
     Ok(())
 }
 
