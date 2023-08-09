@@ -1,13 +1,12 @@
-use sample_data::model::PatientSummary;
-use std::{fs::File, io::BufReader, io::Result, vec};
+use sample_data::model::{GlucoseMeasure, GlucoseMeasureEntry, Patient, PatientSummary};
+use std::{fs::write, fs::File, io::BufReader, io::Result, vec};
 
 fn main() -> Result<()> {
-    read_summary_csv_file(get_file_paths().get(0).unwrap())?;
-
+    filter_data()?;
     Ok(())
 }
 
-fn read_summary_csv_file(path: &String) -> Result<()> {
+fn read_summary_csv_file(path: &String) -> Result<Vec<PatientSummary>> {
     let f = File::open(path)?;
 
     let reader = BufReader::new(f);
@@ -20,6 +19,76 @@ fn read_summary_csv_file(path: &String) -> Result<()> {
         patient_list.push(record.clone());
     }
     println!("{:?}", patient_list.len());
+    Ok(patient_list)
+}
+
+fn read_rtcgm_data() -> Result<Vec<GlucoseMeasureEntry>> {
+    let mut measure_list: Vec<GlucoseMeasureEntry> = vec![];
+    for i in 1..get_file_paths().len() {
+        let f = File::open(get_file_paths().get(i).unwrap())?;
+
+        let reader = BufReader::new(f);
+
+        let mut rdr = csv::Reader::from_reader(reader);
+
+        for result in rdr.deserialize() {
+            let record: GlucoseMeasureEntry = result.expect("a csv record");
+
+            measure_list.push(record.clone());
+        }
+    }
+
+    Ok(measure_list)
+}
+
+fn filter_data() -> Result<()> {
+    let mut measurements: Vec<GlucoseMeasure> = vec![];
+
+    for patient_summary in read_summary_csv_file(get_file_paths().get(0).unwrap())? {
+        for glucose_measure_entry in read_rtcgm_data()? {
+            if glucose_measure_entry.PtID == patient_summary.PtID {
+                let glucose_measure = GlucoseMeasure {
+                    deviceDtTm: glucose_measure_entry.DeviceDtTm,
+                    glucose: glucose_measure_entry.Glucose,
+                };
+                measurements.push(glucose_measure);
+            }
+        }
+        //patient definition and json output
+        let patient = Patient {
+            ptID: patient_summary.PtID,
+            gender: patient_summary.Gender,
+            age: patient_summary.AgeAsOfRandDt,
+            race: patient_summary.Race,
+            ethnicity: patient_summary.Ethnicity,
+            height: patient_summary.Height,
+            weight: patient_summary.Weight,
+            davDiabetes: patient_summary.DavDiabetes,
+            insulinModality: patient_summary.InsulinModality,
+            numSevHypo: patient_summary.NumSevHypo,
+            hgmReadAvg: match patient_summary.HGMReadAvg {
+                Some(v) => v,
+                None => -1,
+            },
+            eduCareGvrP: patient_summary.EduCareGvrP,
+            eduCareGvrPEdu: patient_summary.EduCareGvrPEdu,
+            date: patient_summary.RandDt,
+            txGroup: patient_summary.TxGroup,
+            subStudyGrp: patient_summary.SubStudyGrp,
+            measurements: measurements,
+        };
+        write_json(patient.clone(), patient.ptID)?;
+        println!("wrote patient into file: {:?}", patient.ptID);
+        measurements = vec![];
+    }
+
+    Ok(())
+}
+
+fn write_json(patient: Patient, pat_id: u32) -> Result<()> {
+    let patient_json = serde_json::to_string_pretty(&patient).expect("patient serialize failed!");
+
+    write(format!("./OutputJson/patient{pat_id}.json"), patient_json)?;
     Ok(())
 }
 

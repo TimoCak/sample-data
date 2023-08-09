@@ -2,54 +2,54 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Deserialize, Debug, Serialize, Clone)]
 pub struct PatientSummary {
-    PtID: u32,
-    Gender: char,
-    AgeAsOfRandDt: u8,
-    Race: String,
-    Ethnicity: String,
-    Height: f32,
-    Weight: f32,
-    DavDiabetes: f32,
-    InsulinModality: String,
-    NumSevHypo: String,
-    HGMReadAvg: Option<i16>,
-    EduCareGvrP: String,
-    EduCareGvrPEdu: String,
-    RandDt: String,
-    TxGroup: String,
-    SubStudyGrp: String,
+    pub PtID: u32,
+    pub Gender: char,
+    pub AgeAsOfRandDt: u8,
+    pub Race: String,
+    pub Ethnicity: String,
+    pub Height: f32,
+    pub Weight: f32,
+    pub DavDiabetes: f32,
+    pub InsulinModality: String,
+    pub NumSevHypo: String,
+    pub HGMReadAvg: Option<i16>,
+    pub EduCareGvrP: String,
+    pub EduCareGvrPEdu: String,
+    pub RandDt: String,
+    pub TxGroup: String,
+    pub SubStudyGrp: String,
 }
 
-#[derive(Deserialize, Debug, Serialize, Clone)]
+#[derive(Deserialize, Debug, Serialize, Clone, Default)]
 pub struct GlucoseMeasureEntry {
-    PtID: u32,
-    DeviceDtTm: String,
-    Glucose: u16,
+    pub PtID: u32,
+    pub DeviceDtTm: String,
+    pub Glucose: u16,
 }
 
-#[derive(Deserialize, Debug, Serialize, Clone)]
+#[derive(Deserialize, Debug, Serialize, Clone, Default)]
 pub struct GlucoseMeasure {
-    deviceDtTm: String,
-    glucose: u16,
+    pub deviceDtTm: String,
+    pub glucose: u16,
 }
 
 #[derive(Deserialize, Debug, Serialize, Clone)]
 pub struct Patient {
-    ptID: u32,
-    gender: char,
-    age: u8,
-    race: String,
-    ethnicity: String,
-    height: f32,
-    weight: f32,
-    davDiabetes: f32,
-    insulinModality: String,
-    numSevHypo: String,
-    hGMReadAvg: i16,
-    eduCareGvrP: String,
-    eduCareGvrPEdu: String,
-    date: String,
-    txGroup: String,
-    subStudyGrp: String,
-    measurements: Vec<GlucoseMeasure>,
+    pub ptID: u32,
+    pub gender: char,
+    pub age: u8,
+    pub race: String,
+    pub ethnicity: String,
+    pub height: f32,
+    pub weight: f32,
+    pub davDiabetes: f32,
+    pub insulinModality: String,
+    pub numSevHypo: String,
+    pub hgmReadAvg: i16,
+    pub eduCareGvrP: String,
+    pub eduCareGvrPEdu: String,
+    pub date: String,
+    pub txGroup: String,
+    pub subStudyGrp: String,
+    pub measurements: Vec<GlucoseMeasure>,
 }

@@ -1,0 +1,3968 @@
+{
+  "ptID": 436,
+  "gender": "F",
+  "age": 13,
+  "race": "Black/African American",
+  "ethnicity": "Not Hispanic or Latino",
+  "height": 160.6,
+  "weight": 74.2,
+  "davDiabetes": 1.7,
+  "insulinModality": "Injections",
+  "numSevHypo": "1",
+  "hgmReadAvg": 5,
+  "eduCareGvrP": "Mother",
+  "eduCareGvrPEdu": "Masters",
+  "date": "2000-08-27 14:54:00",
+  "txGroup": "RT-CGM",
+  "subStudyGrp": "Primary",
+  "measurements": [
+    {
+      "deviceDtTm": "2000-08-27 13:17:12",
+      "glucose": 111
+    },
+    {
+      "deviceDtTm": "2000-08-27 13:27:14",
+      "glucose": 123
+    },
+    {
+      "deviceDtTm": "2000-08-27 13:37:16",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-27 13:47:10",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-27 13:57:10",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-27 14:07:16",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-27 14:17:13",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-27 14:27:18",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 14:37:20",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 14:47:16",
+      "glucose": 153
+    },
+    {
+      "deviceDtTm": "2000-08-18 22:43:13",
+      "glucose": 128
+    },
+    {
+      "deviceDtTm": "2000-08-18 22:53:15",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:03:27",
+      "glucose": 221
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:13:30",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:23:31",
+      "glucose": 216
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:33:34",
+      "glucose": 235
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:43:34",
+      "glucose": 228
+    },
+    {
+      "deviceDtTm": "2000-08-19 03:53:26",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:03:31",
+      "glucose": 216
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:13:31",
+      "glucose": 213
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:23:34",
+      "glucose": 211
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:33:33",
+      "glucose": 196
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:43:35",
+      "glucose": 196
+    },
+    {
+      "deviceDtTm": "2000-08-19 04:53:37",
+      "glucose": 203
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:03:32",
+      "glucose": 195
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:13:32",
+      "glucose": 182
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:23:37",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:33:34",
+      "glucose": 173
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:43:39",
+      "glucose": 158
+    },
+    {
+      "deviceDtTm": "2000-08-19 05:53:41",
+      "glucose": 154
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:03:37",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:13:41",
+      "glucose": 153
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:23:42",
+      "glucose": 130
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:33:35",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:43:38",
+      "glucose": 146
+    },
+    {
+      "deviceDtTm": "2000-08-19 06:53:40",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:03:43",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:13:41",
+      "glucose": 137
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:23:47",
+      "glucose": 122
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:33:47",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:43:44",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-19 07:53:42",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:03:43",
+      "glucose": 125
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:13:45",
+      "glucose": 121
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:23:44",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:33:48",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:43:49",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-19 08:53:49",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:03:44",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:13:46",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:23:54",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:33:52",
+      "glucose": 146
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:43:47",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-19 09:53:52",
+      "glucose": 121
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:03:55",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:13:55",
+      "glucose": 157
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:23:49",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:33:56",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:43:58",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-19 10:53:56",
+      "glucose": 144
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:03:58",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:13:55",
+      "glucose": 126
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:23:57",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:34:01",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:44:00",
+      "glucose": 99
+    },
+    {
+      "deviceDtTm": "2000-08-19 11:54:03",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:04:03",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:14:00",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:23:56",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:33:58",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:44:03",
+      "glucose": 133
+    },
+    {
+      "deviceDtTm": "2000-08-19 12:54:05",
+      "glucose": 125
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:04:06",
+      "glucose": 123
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:14:03",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:24:03",
+      "glucose": 148
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:34:08",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:44:05",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-19 13:54:10",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:04:04",
+      "glucose": 157
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:14:03",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:24:11",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:34:08",
+      "glucose": 115
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:44:13",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-19 14:54:07",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:04:09",
+      "glucose": 111
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:14:09",
+      "glucose": 110
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:24:06",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:34:16",
+      "glucose": 97
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:44:12",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-19 15:54:14",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:04:10",
+      "glucose": 109
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:14:14",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:24:18",
+      "glucose": 80
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:34:16",
+      "glucose": 87
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:44:20",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-19 16:54:13",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:04:21",
+      "glucose": 115
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:14:16",
+      "glucose": 97
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:24:20",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:34:18",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:44:20",
+      "glucose": 99
+    },
+    {
+      "deviceDtTm": "2000-08-19 17:54:23",
+      "glucose": 109
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:04:18",
+      "glucose": 107
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:14:22",
+      "glucose": 107
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:24:18",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:34:22",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:44:20",
+      "glucose": 85
+    },
+    {
+      "deviceDtTm": "2000-08-19 18:54:21",
+      "glucose": 53
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:04:23",
+      "glucose": 48
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:14:23",
+      "glucose": 45
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:24:28",
+      "glucose": 48
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:34:30",
+      "glucose": 68
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:44:29",
+      "glucose": 63
+    },
+    {
+      "deviceDtTm": "2000-08-19 19:54:29",
+      "glucose": 60
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:04:27",
+      "glucose": 53
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:14:29",
+      "glucose": 62
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:24:24",
+      "glucose": 90
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:34:29",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:44:28",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-19 20:54:29",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:04:33",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:14:35",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:24:34",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:34:30",
+      "glucose": 130
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:44:30",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-19 21:54:33",
+      "glucose": 162
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:04:34",
+      "glucose": 176
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:14:33",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:24:31",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:34:33",
+      "glucose": 185
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:44:39",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-19 22:54:42",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:04:36",
+      "glucose": 116
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:14:40",
+      "glucose": 93
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:24:40",
+      "glucose": 77
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:34:39",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:44:42",
+      "glucose": 71
+    },
+    {
+      "deviceDtTm": "2000-08-19 23:54:40",
+      "glucose": 62
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:04:40",
+      "glucose": 65
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:14:45",
+      "glucose": 64
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:24:41",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:34:44",
+      "glucose": 126
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:44:45",
+      "glucose": 137
+    },
+    {
+      "deviceDtTm": "2000-08-20 00:54:49",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:04:48",
+      "glucose": 92
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:14:40",
+      "glucose": 128
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:24:45",
+      "glucose": 144
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:34:46",
+      "glucose": 85
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:44:48",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-20 01:54:47",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:04:49",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:14:51",
+      "glucose": 122
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:24:46",
+      "glucose": 127
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:34:46",
+      "glucose": 154
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:44:51",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-20 02:54:49",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:04:53",
+      "glucose": 203
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:14:55",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:24:52",
+      "glucose": 218
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:34:55",
+      "glucose": 232
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:44:57",
+      "glucose": 249
+    },
+    {
+      "deviceDtTm": "2000-08-20 03:54:50",
+      "glucose": 267
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:04:52",
+      "glucose": 270
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:14:54",
+      "glucose": 273
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:24:58",
+      "glucose": 278
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:34:55",
+      "glucose": 275
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:45:01",
+      "glucose": 268
+    },
+    {
+      "deviceDtTm": "2000-08-20 04:55:01",
+      "glucose": 275
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:04:58",
+      "glucose": 277
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:14:56",
+      "glucose": 276
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:24:57",
+      "glucose": 264
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:34:59",
+      "glucose": 249
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:44:58",
+      "glucose": 257
+    },
+    {
+      "deviceDtTm": "2000-08-20 05:55:02",
+      "glucose": 243
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:05:03",
+      "glucose": 240
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:15:04",
+      "glucose": 238
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:24:58",
+      "glucose": 237
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:35:00",
+      "glucose": 276
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:45:09",
+      "glucose": 293
+    },
+    {
+      "deviceDtTm": "2000-08-20 06:55:06",
+      "glucose": 290
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:05:01",
+      "glucose": 283
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:15:06",
+      "glucose": 259
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:25:09",
+      "glucose": 262
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:35:09",
+      "glucose": 261
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:45:03",
+      "glucose": 269
+    },
+    {
+      "deviceDtTm": "2000-08-20 07:55:10",
+      "glucose": 262
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:05:12",
+      "glucose": 262
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:15:11",
+      "glucose": 244
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:25:12",
+      "glucose": 259
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:35:09",
+      "glucose": 270
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:45:11",
+      "glucose": 271
+    },
+    {
+      "deviceDtTm": "2000-08-20 08:55:15",
+      "glucose": 271
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:05:14",
+      "glucose": 264
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:15:17",
+      "glucose": 258
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:25:18",
+      "glucose": 257
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:35:14",
+      "glucose": 277
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:45:10",
+      "glucose": 278
+    },
+    {
+      "deviceDtTm": "2000-08-20 09:55:13",
+      "glucose": 279
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:05:18",
+      "glucose": 284
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:15:19",
+      "glucose": 284
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:25:21",
+      "glucose": 283
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:35:17",
+      "glucose": 269
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:45:17",
+      "glucose": 265
+    },
+    {
+      "deviceDtTm": "2000-08-20 10:55:22",
+      "glucose": 268
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:05:19",
+      "glucose": 274
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:15:25",
+      "glucose": 247
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:25:18",
+      "glucose": 233
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:35:17",
+      "glucose": 231
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:45:25",
+      "glucose": 238
+    },
+    {
+      "deviceDtTm": "2000-08-20 11:55:22",
+      "glucose": 239
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:05:27",
+      "glucose": 235
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:15:21",
+      "glucose": 233
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:25:23",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:35:24",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:45:21",
+      "glucose": 233
+    },
+    {
+      "deviceDtTm": "2000-08-20 12:55:30",
+      "glucose": 220
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:05:26",
+      "glucose": 249
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:15:28",
+      "glucose": 256
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:25:24",
+      "glucose": 258
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:35:28",
+      "glucose": 246
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:45:32",
+      "glucose": 252
+    },
+    {
+      "deviceDtTm": "2000-08-20 13:55:30",
+      "glucose": 257
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:05:34",
+      "glucose": 255
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:15:28",
+      "glucose": 251
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:25:35",
+      "glucose": 239
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:35:30",
+      "glucose": 240
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:45:34",
+      "glucose": 239
+    },
+    {
+      "deviceDtTm": "2000-08-20 14:55:32",
+      "glucose": 199
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:05:34",
+      "glucose": 198
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:15:38",
+      "glucose": 210
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:25:32",
+      "glucose": 221
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:35:36",
+      "glucose": 223
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:45:32",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-20 15:55:36",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:05:34",
+      "glucose": 214
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:15:35",
+      "glucose": 207
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:25:38",
+      "glucose": 204
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:35:37",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:45:43",
+      "glucose": 198
+    },
+    {
+      "deviceDtTm": "2000-08-20 16:55:44",
+      "glucose": 167
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:05:43",
+      "glucose": 152
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:15:43",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:25:41",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:35:43",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:45:38",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-20 17:55:44",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:05:42",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:15:43",
+      "glucose": 248
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:25:47",
+      "glucose": 267
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:35:49",
+      "glucose": 279
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:45:48",
+      "glucose": 282
+    },
+    {
+      "deviceDtTm": "2000-08-20 18:55:45",
+      "glucose": 278
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:05:45",
+      "glucose": 263
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:15:47",
+      "glucose": 247
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:25:48",
+      "glucose": 231
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:35:47",
+      "glucose": 231
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:45:45",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 19:55:47",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:05:54",
+      "glucose": 241
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:15:56",
+      "glucose": 228
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:25:50",
+      "glucose": 225
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:35:55",
+      "glucose": 231
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:45:54",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-20 20:55:53",
+      "glucose": 236
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:05:57",
+      "glucose": 241
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:15:55",
+      "glucose": 241
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:25:54",
+      "glucose": 248
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:36:00",
+      "glucose": 250
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:45:56",
+      "glucose": 254
+    },
+    {
+      "deviceDtTm": "2000-08-20 21:55:59",
+      "glucose": 277
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:05:59",
+      "glucose": 287
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:16:03",
+      "glucose": 293
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:26:03",
+      "glucose": 308
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:35:55",
+      "glucose": 313
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:45:59",
+      "glucose": 313
+    },
+    {
+      "deviceDtTm": "2000-08-20 22:56:00",
+      "glucose": 310
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:06:02",
+      "glucose": 308
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:16:02",
+      "glucose": 308
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:26:04",
+      "glucose": 327
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:36:06",
+      "glucose": 349
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:46:00",
+      "glucose": 373
+    },
+    {
+      "deviceDtTm": "2000-08-20 23:56:00",
+      "glucose": 374
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:06:05",
+      "glucose": 369
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:16:03",
+      "glucose": 357
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:26:08",
+      "glucose": 345
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:36:10",
+      "glucose": 338
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:46:06",
+      "glucose": 328
+    },
+    {
+      "deviceDtTm": "2000-08-21 00:56:09",
+      "glucose": 324
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:06:11",
+      "glucose": 317
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:16:04",
+      "glucose": 315
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:26:06",
+      "glucose": 303
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:36:09",
+      "glucose": 295
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:46:12",
+      "glucose": 293
+    },
+    {
+      "deviceDtTm": "2000-08-21 01:56:09",
+      "glucose": 290
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:06:16",
+      "glucose": 289
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:16:15",
+      "glucose": 289
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:26:12",
+      "glucose": 285
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:36:10",
+      "glucose": 283
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:46:12",
+      "glucose": 288
+    },
+    {
+      "deviceDtTm": "2000-08-21 02:56:14",
+      "glucose": 280
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:06:13",
+      "glucose": 279
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:16:17",
+      "glucose": 281
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:26:17",
+      "glucose": 280
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:36:18",
+      "glucose": 280
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:46:13",
+      "glucose": 275
+    },
+    {
+      "deviceDtTm": "2000-08-21 03:56:14",
+      "glucose": 256
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:06:23",
+      "glucose": 248
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:16:21",
+      "glucose": 260
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:26:16",
+      "glucose": 262
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:36:20",
+      "glucose": 251
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:46:23",
+      "glucose": 230
+    },
+    {
+      "deviceDtTm": "2000-08-21 04:56:23",
+      "glucose": 223
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:06:18",
+      "glucose": 225
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:16:24",
+      "glucose": 233
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:26:26",
+      "glucose": 245
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:36:25",
+      "glucose": 243
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:46:26",
+      "glucose": 231
+    },
+    {
+      "deviceDtTm": "2000-08-21 05:56:24",
+      "glucose": 232
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:06:25",
+      "glucose": 212
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:16:30",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:26:29",
+      "glucose": 202
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:36:31",
+      "glucose": 201
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:46:32",
+      "glucose": 200
+    },
+    {
+      "deviceDtTm": "2000-08-21 06:56:28",
+      "glucose": 197
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:06:24",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:16:27",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:26:32",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:36:34",
+      "glucose": 176
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:46:35",
+      "glucose": 170
+    },
+    {
+      "deviceDtTm": "2000-08-21 07:56:31",
+      "glucose": 162
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:06:31",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:16:36",
+      "glucose": 166
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:26:33",
+      "glucose": 169
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:36:39",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:46:32",
+      "glucose": 184
+    },
+    {
+      "deviceDtTm": "2000-08-21 08:56:32",
+      "glucose": 188
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:06:40",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:16:36",
+      "glucose": 203
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:26:42",
+      "glucose": 203
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:36:36",
+      "glucose": 205
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:46:38",
+      "glucose": 213
+    },
+    {
+      "deviceDtTm": "2000-08-21 09:56:38",
+      "glucose": 239
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:06:35",
+      "glucose": 266
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:16:45",
+      "glucose": 288
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:26:40",
+      "glucose": 292
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:36:42",
+      "glucose": 318
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:46:39",
+      "glucose": 338
+    },
+    {
+      "deviceDtTm": "2000-08-21 10:56:43",
+      "glucose": 349
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:06:46",
+      "glucose": 362
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:16:45",
+      "glucose": 366
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:26:48",
+      "glucose": 106
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:36:42",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:46:49",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-21 11:56:44",
+      "glucose": 304
+    },
+    {
+      "deviceDtTm": "2000-08-21 12:16:47",
+      "glucose": 430
+    },
+    {
+      "deviceDtTm": "2000-08-21 12:26:48",
+      "glucose": 420
+    },
+    {
+      "deviceDtTm": "2000-08-21 12:36:52",
+      "glucose": 414
+    },
+    {
+      "deviceDtTm": "2000-08-21 12:46:47",
+      "glucose": 425
+    },
+    {
+      "deviceDtTm": "2000-08-21 12:56:50",
+      "glucose": 418
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:06:46",
+      "glucose": 408
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:16:51",
+      "glucose": 397
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:26:48",
+      "glucose": 385
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:36:50",
+      "glucose": 375
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:46:52",
+      "glucose": 344
+    },
+    {
+      "deviceDtTm": "2000-08-21 13:56:52",
+      "glucose": 275
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:06:57",
+      "glucose": 212
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:16:59",
+      "glucose": 193
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:26:57",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:36:58",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:46:55",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-21 14:56:58",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:06:53",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:16:58",
+      "glucose": 130
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:26:56",
+      "glucose": 120
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:36:58",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:47:02",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-21 15:57:03",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:07:03",
+      "glucose": 124
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:16:59",
+      "glucose": 131
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:26:59",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:37:01",
+      "glucose": 125
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:47:02",
+      "glucose": 122
+    },
+    {
+      "deviceDtTm": "2000-08-21 16:57:02",
+      "glucose": 97
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:06:59",
+      "glucose": 94
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:17:01",
+      "glucose": 95
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:27:08",
+      "glucose": 95
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:37:10",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:47:05",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-21 17:57:09",
+      "glucose": 147
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:07:08",
+      "glucose": 126
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:17:07",
+      "glucose": 93
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:27:11",
+      "glucose": 73
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:37:09",
+      "glucose": 48
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:47:09",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-21 18:57:14",
+      "glucose": 23
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:07:10",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:17:13",
+      "glucose": 29
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:27:13",
+      "glucose": 22
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:37:17",
+      "glucose": 26
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:47:17",
+      "glucose": 48
+    },
+    {
+      "deviceDtTm": "2000-08-21 19:57:09",
+      "glucose": 71
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:07:14",
+      "glucose": 86
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:17:14",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:27:17",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:37:16",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:47:18",
+      "glucose": 123
+    },
+    {
+      "deviceDtTm": "2000-08-21 20:57:20",
+      "glucose": 123
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:07:15",
+      "glucose": 127
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:17:15",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:27:20",
+      "glucose": 105
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:37:17",
+      "glucose": 88
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:47:22",
+      "glucose": 60
+    },
+    {
+      "deviceDtTm": "2000-08-21 21:57:24",
+      "glucose": 37
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:07:20",
+      "glucose": 33
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:17:23",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:27:25",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:37:18",
+      "glucose": 60
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:47:21",
+      "glucose": 43
+    },
+    {
+      "deviceDtTm": "2000-08-21 22:57:23",
+      "glucose": 38
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:07:26",
+      "glucose": 37
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:17:23",
+      "glucose": 44
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:27:30",
+      "glucose": 48
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:37:30",
+      "glucose": 54
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:47:27",
+      "glucose": 64
+    },
+    {
+      "deviceDtTm": "2000-08-21 23:57:24",
+      "glucose": 71
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:07:26",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:17:28",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:27:27",
+      "glucose": 68
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:37:31",
+      "glucose": 69
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:47:32",
+      "glucose": 79
+    },
+    {
+      "deviceDtTm": "2000-08-22 00:57:32",
+      "glucose": 84
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:07:27",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:17:29",
+      "glucose": 79
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:27:37",
+      "glucose": 77
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:37:35",
+      "glucose": 72
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:47:30",
+      "glucose": 67
+    },
+    {
+      "deviceDtTm": "2000-08-22 01:57:34",
+      "glucose": 61
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:07:37",
+      "glucose": 58
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:17:38",
+      "glucose": 59
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:27:32",
+      "glucose": 68
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:37:39",
+      "glucose": 80
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:47:40",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-22 02:57:39",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:07:41",
+      "glucose": 94
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:17:38",
+      "glucose": 92
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:27:40",
+      "glucose": 92
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:37:44",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:47:43",
+      "glucose": 99
+    },
+    {
+      "deviceDtTm": "2000-08-22 03:57:45",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:07:46",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:17:43",
+      "glucose": 102
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:27:39",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:37:41",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:47:46",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-22 04:57:48",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:07:49",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:17:45",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:27:46",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:37:51",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:47:48",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-22 05:57:53",
+      "glucose": 90
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:07:47",
+      "glucose": 86
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:17:46",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:27:54",
+      "glucose": 80
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:37:51",
+      "glucose": 79
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:47:56",
+      "glucose": 65
+    },
+    {
+      "deviceDtTm": "2000-08-22 06:57:50",
+      "glucose": 61
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:07:52",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:17:52",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:27:49",
+      "glucose": 180
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:37:59",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:47:55",
+      "glucose": 193
+    },
+    {
+      "deviceDtTm": "2000-08-22 07:57:57",
+      "glucose": 201
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:07:53",
+      "glucose": 215
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:17:57",
+      "glucose": 242
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:28:01",
+      "glucose": 278
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:37:59",
+      "glucose": 325
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:48:03",
+      "glucose": 346
+    },
+    {
+      "deviceDtTm": "2000-08-22 08:57:56",
+      "glucose": 362
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:08:04",
+      "glucose": 371
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:17:59",
+      "glucose": 390
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:28:03",
+      "glucose": 393
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:38:01",
+      "glucose": 394
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:48:03",
+      "glucose": 396
+    },
+    {
+      "deviceDtTm": "2000-08-22 09:58:06",
+      "glucose": 378
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:08:01",
+      "glucose": 380
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:18:05",
+      "glucose": 390
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:28:01",
+      "glucose": 409
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:38:05",
+      "glucose": 424
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:48:03",
+      "glucose": 435
+    },
+    {
+      "deviceDtTm": "2000-08-22 10:58:04",
+      "glucose": 440
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:08:06",
+      "glucose": 446
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:18:06",
+      "glucose": 446
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:28:11",
+      "glucose": 445
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:38:13",
+      "glucose": 448
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:48:12",
+      "glucose": 450
+    },
+    {
+      "deviceDtTm": "2000-08-22 11:58:12",
+      "glucose": 444
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:08:10",
+      "glucose": 432
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:18:12",
+      "glucose": 405
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:28:07",
+      "glucose": 353
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:38:12",
+      "glucose": 302
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:48:11",
+      "glucose": 247
+    },
+    {
+      "deviceDtTm": "2000-08-22 12:58:12",
+      "glucose": 200
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:08:16",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:18:18",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:28:17",
+      "glucose": 109
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:38:13",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:48:13",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-22 13:58:16",
+      "glucose": 80
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:08:17",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:18:16",
+      "glucose": 74
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:28:14",
+      "glucose": 84
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:38:16",
+      "glucose": 87
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:48:22",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-22 14:58:25",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:08:19",
+      "glucose": 95
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:18:23",
+      "glucose": 85
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:28:23",
+      "glucose": 85
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:38:22",
+      "glucose": 87
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:48:25",
+      "glucose": 92
+    },
+    {
+      "deviceDtTm": "2000-08-22 15:58:23",
+      "glucose": 108
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:08:23",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:18:28",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:28:24",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:38:27",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:48:28",
+      "glucose": 137
+    },
+    {
+      "deviceDtTm": "2000-08-22 16:58:32",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:08:31",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:18:23",
+      "glucose": 172
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:28:28",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:38:29",
+      "glucose": 211
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:48:31",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-22 17:58:30",
+      "glucose": 198
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:08:32",
+      "glucose": 197
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:18:34",
+      "glucose": 209
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:28:29",
+      "glucose": 219
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:38:29",
+      "glucose": 197
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:48:34",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-22 18:58:31",
+      "glucose": 183
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:08:36",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:18:38",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:28:35",
+      "glucose": 57
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:38:38",
+      "glucose": 40
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:48:40",
+      "glucose": 43
+    },
+    {
+      "deviceDtTm": "2000-08-22 19:58:33",
+      "glucose": 23
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:08:35",
+      "glucose": 38
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:18:37",
+      "glucose": 30
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:28:41",
+      "glucose": 65
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:38:38",
+      "glucose": 97
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:48:44",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-22 20:58:44",
+      "glucose": 133
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:08:41",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:18:39",
+      "glucose": 153
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:28:40",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:38:42",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:48:41",
+      "glucose": 147
+    },
+    {
+      "deviceDtTm": "2000-08-22 21:58:45",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:08:46",
+      "glucose": 161
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:18:47",
+      "glucose": 166
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:28:41",
+      "glucose": 173
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:38:43",
+      "glucose": 183
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:48:52",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-22 22:58:49",
+      "glucose": 184
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:08:44",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:18:49",
+      "glucose": 180
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:28:52",
+      "glucose": 176
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:38:52",
+      "glucose": 162
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:48:46",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-22 23:58:53",
+      "glucose": 166
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:08:55",
+      "glucose": 169
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:18:54",
+      "glucose": 170
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:28:55",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:38:52",
+      "glucose": 158
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:48:54",
+      "glucose": 159
+    },
+    {
+      "deviceDtTm": "2000-08-23 00:58:58",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:08:57",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:19:00",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:29:01",
+      "glucose": 156
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:38:57",
+      "glucose": 158
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:48:53",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-23 01:58:56",
+      "glucose": 45
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:09:01",
+      "glucose": 39
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:19:02",
+      "glucose": 35
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:29:04",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:39:00",
+      "glucose": 38
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:49:00",
+      "glucose": 36
+    },
+    {
+      "deviceDtTm": "2000-08-23 02:59:05",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:09:02",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:19:07",
+      "glucose": 22
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:29:01",
+      "glucose": 26
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:39:00",
+      "glucose": 24
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:49:08",
+      "glucose": 23
+    },
+    {
+      "deviceDtTm": "2000-08-23 03:59:05",
+      "glucose": 23
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:09:10",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:19:04",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:29:06",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:39:07",
+      "glucose": 26
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:49:04",
+      "glucose": 23
+    },
+    {
+      "deviceDtTm": "2000-08-23 04:59:13",
+      "glucose": 21
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:09:09",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:19:11",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:29:07",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:39:11",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:49:15",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 05:59:13",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:09:17",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:19:11",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:29:18",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:39:13",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:49:17",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 06:59:15",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:09:17",
+      "glucose": 20
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:19:21",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:29:15",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:39:19",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:49:15",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 07:59:19",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:09:17",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:19:18",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:29:21",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:39:20",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:49:26",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 08:59:27",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:09:26",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:19:26",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:29:24",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:39:26",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:49:21",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 09:59:27",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:09:25",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:19:26",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:29:30",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:39:32",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:49:31",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 10:59:27",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:09:28",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:19:30",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:29:31",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:39:30",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:49:28",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 11:59:30",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:09:36",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:19:39",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:29:33",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:39:38",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:49:37",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 12:59:36",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:09:39",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:19:38",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:29:37",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:39:43",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:49:39",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 13:59:42",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 14:09:42",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 14:19:46",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-23 14:29:46",
+      "glucose": 19
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:04:15",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:14:14",
+      "glucose": 169
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:24:15",
+      "glucose": 175
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:34:19",
+      "glucose": 174
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:44:14",
+      "glucose": 167
+    },
+    {
+      "deviceDtTm": "2000-08-25 10:54:25",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:04:14",
+      "glucose": 175
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:14:18",
+      "glucose": 163
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:24:15",
+      "glucose": 152
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:34:17",
+      "glucose": 162
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:44:19",
+      "glucose": 165
+    },
+    {
+      "deviceDtTm": "2000-08-25 11:54:19",
+      "glucose": 161
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:04:24",
+      "glucose": 158
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:14:26",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:24:25",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:34:25",
+      "glucose": 124
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:44:23",
+      "glucose": 111
+    },
+    {
+      "deviceDtTm": "2000-08-25 12:54:25",
+      "glucose": 109
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:04:20",
+      "glucose": 114
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:14:25",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:24:23",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:34:25",
+      "glucose": 163
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:44:29",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-25 13:54:30",
+      "glucose": 188
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:04:30",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:14:26",
+      "glucose": 176
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:24:26",
+      "glucose": 163
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:34:29",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:44:29",
+      "glucose": 152
+    },
+    {
+      "deviceDtTm": "2000-08-25 14:54:29",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:04:27",
+      "glucose": 147
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:14:28",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:24:35",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:34:37",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:44:32",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-25 15:54:36",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:04:35",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:14:35",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:24:38",
+      "glucose": 137
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:34:36",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:44:36",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-25 16:54:41",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:04:37",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:14:40",
+      "glucose": 147
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:24:41",
+      "glucose": 185
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:34:44",
+      "glucose": 209
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:44:44",
+      "glucose": 239
+    },
+    {
+      "deviceDtTm": "2000-08-25 17:54:36",
+      "glucose": 255
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:04:41",
+      "glucose": 267
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:14:42",
+      "glucose": 247
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:24:44",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:34:43",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:44:45",
+      "glucose": 179
+    },
+    {
+      "deviceDtTm": "2000-08-25 18:54:47",
+      "glucose": 167
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:04:42",
+      "glucose": 166
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:14:42",
+      "glucose": 168
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:24:47",
+      "glucose": 162
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:34:44",
+      "glucose": 146
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:44:49",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-25 19:54:51",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:04:47",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:14:51",
+      "glucose": 131
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:24:52",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:34:45",
+      "glucose": 144
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:44:48",
+      "glucose": 147
+    },
+    {
+      "deviceDtTm": "2000-08-25 20:54:50",
+      "glucose": 159
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:04:53",
+      "glucose": 170
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:14:51",
+      "glucose": 180
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:24:57",
+      "glucose": 180
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:34:57",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:44:54",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-25 21:54:52",
+      "glucose": 194
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:04:53",
+      "glucose": 193
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:14:55",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:24:54",
+      "glucose": 191
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:34:58",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:44:59",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-25 22:54:59",
+      "glucose": 179
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:04:54",
+      "glucose": 175
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:14:56",
+      "glucose": 169
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:25:04",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:35:02",
+      "glucose": 160
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:44:57",
+      "glucose": 155
+    },
+    {
+      "deviceDtTm": "2000-08-25 23:55:02",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:05:05",
+      "glucose": 148
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:15:05",
+      "glucose": 146
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:24:59",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:35:06",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:45:08",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-26 00:55:06",
+      "glucose": 130
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:05:08",
+      "glucose": 130
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:15:05",
+      "glucose": 122
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:25:07",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:35:11",
+      "glucose": 114
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:45:10",
+      "glucose": 110
+    },
+    {
+      "deviceDtTm": "2000-08-26 01:55:13",
+      "glucose": 105
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:05:13",
+      "glucose": 104
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:15:10",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:25:06",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:35:08",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:45:13",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-26 02:55:15",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:05:16",
+      "glucose": 77
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:15:13",
+      "glucose": 90
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:25:13",
+      "glucose": 88
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:35:18",
+      "glucose": 86
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:45:15",
+      "glucose": 88
+    },
+    {
+      "deviceDtTm": "2000-08-26 03:55:20",
+      "glucose": 78
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:05:14",
+      "glucose": 78
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:15:13",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:25:21",
+      "glucose": 69
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:35:18",
+      "glucose": 64
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:45:23",
+      "glucose": 63
+    },
+    {
+      "deviceDtTm": "2000-08-26 04:55:17",
+      "glucose": 78
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:05:19",
+      "glucose": 79
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:15:19",
+      "glucose": 76
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:25:16",
+      "glucose": 73
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:35:26",
+      "glucose": 63
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:45:22",
+      "glucose": 58
+    },
+    {
+      "deviceDtTm": "2000-08-26 05:55:24",
+      "glucose": 56
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:05:20",
+      "glucose": 53
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:15:24",
+      "glucose": 53
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:25:28",
+      "glucose": 64
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:35:26",
+      "glucose": 65
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:45:30",
+      "glucose": 72
+    },
+    {
+      "deviceDtTm": "2000-08-26 06:55:23",
+      "glucose": 71
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:05:31",
+      "glucose": 71
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:15:26",
+      "glucose": 69
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:25:30",
+      "glucose": 66
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:35:28",
+      "glucose": 80
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:45:30",
+      "glucose": 131
+    },
+    {
+      "deviceDtTm": "2000-08-26 07:55:33",
+      "glucose": 194
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:05:28",
+      "glucose": 233
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:15:32",
+      "glucose": 266
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:25:28",
+      "glucose": 293
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:35:32",
+      "glucose": 326
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:45:30",
+      "glucose": 343
+    },
+    {
+      "deviceDtTm": "2000-08-26 08:55:31",
+      "glucose": 357
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:05:33",
+      "glucose": 367
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:15:33",
+      "glucose": 376
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:25:38",
+      "glucose": 386
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:35:40",
+      "glucose": 402
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:45:39",
+      "glucose": 401
+    },
+    {
+      "deviceDtTm": "2000-08-26 09:55:39",
+      "glucose": 398
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:05:37",
+      "glucose": 400
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:15:39",
+      "glucose": 403
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:25:34",
+      "glucose": 411
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:35:39",
+      "glucose": 413
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:45:38",
+      "glucose": 413
+    },
+    {
+      "deviceDtTm": "2000-08-26 10:55:39",
+      "glucose": 407
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:05:43",
+      "glucose": 398
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:15:45",
+      "glucose": 387
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:25:44",
+      "glucose": 387
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:35:40",
+      "glucose": 389
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:45:41",
+      "glucose": 394
+    },
+    {
+      "deviceDtTm": "2000-08-26 11:55:43",
+      "glucose": 394
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:05:44",
+      "glucose": 389
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:15:43",
+      "glucose": 381
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:25:41",
+      "glucose": 381
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:35:43",
+      "glucose": 376
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:45:49",
+      "glucose": 364
+    },
+    {
+      "deviceDtTm": "2000-08-26 12:55:52",
+      "glucose": 348
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:05:46",
+      "glucose": 343
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:15:50",
+      "glucose": 331
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:25:50",
+      "glucose": 313
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:35:49",
+      "glucose": 307
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:45:52",
+      "glucose": 299
+    },
+    {
+      "deviceDtTm": "2000-08-26 13:55:50",
+      "glucose": 282
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:05:50",
+      "glucose": 282
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:15:55",
+      "glucose": 274
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:25:51",
+      "glucose": 270
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:35:54",
+      "glucose": 256
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:45:55",
+      "glucose": 254
+    },
+    {
+      "deviceDtTm": "2000-08-26 14:55:59",
+      "glucose": 248
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:05:58",
+      "glucose": 229
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:15:50",
+      "glucose": 217
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:25:55",
+      "glucose": 209
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:35:56",
+      "glucose": 202
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:45:58",
+      "glucose": 194
+    },
+    {
+      "deviceDtTm": "2000-08-26 15:55:57",
+      "glucose": 189
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:05:59",
+      "glucose": 183
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:16:02",
+      "glucose": 181
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:25:56",
+      "glucose": 180
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:35:56",
+      "glucose": 177
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:46:01",
+      "glucose": 168
+    },
+    {
+      "deviceDtTm": "2000-08-26 16:55:59",
+      "glucose": 165
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:06:04",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:16:06",
+      "glucose": 165
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:26:02",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:36:05",
+      "glucose": 163
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:46:07",
+      "glucose": 176
+    },
+    {
+      "deviceDtTm": "2000-08-26 17:56:00",
+      "glucose": 179
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:06:02",
+      "glucose": 173
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:16:04",
+      "glucose": 164
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:26:08",
+      "glucose": 157
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:36:05",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:46:12",
+      "glucose": 131
+    },
+    {
+      "deviceDtTm": "2000-08-26 18:56:11",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:06:08",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:16:06",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:26:07",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:36:09",
+      "glucose": 108
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:46:09",
+      "glucose": 131
+    },
+    {
+      "deviceDtTm": "2000-08-26 19:56:12",
+      "glucose": 132
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:06:13",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:16:14",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:26:09",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:36:10",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:46:19",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-26 20:56:16",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:06:11",
+      "glucose": 145
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:16:16",
+      "glucose": 151
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:26:19",
+      "glucose": 161
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:36:19",
+      "glucose": 168
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:46:13",
+      "glucose": 191
+    },
+    {
+      "deviceDtTm": "2000-08-26 21:56:20",
+      "glucose": 213
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:06:22",
+      "glucose": 226
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:16:21",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:26:22",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:36:20",
+      "glucose": 248
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:46:21",
+      "glucose": 243
+    },
+    {
+      "deviceDtTm": "2000-08-26 22:56:26",
+      "glucose": 230
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:06:24",
+      "glucose": 221
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:16:27",
+      "glucose": 236
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:26:28",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:36:24",
+      "glucose": 223
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:46:20",
+      "glucose": 222
+    },
+    {
+      "deviceDtTm": "2000-08-26 23:56:23",
+      "glucose": 221
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:06:28",
+      "glucose": 218
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:16:29",
+      "glucose": 215
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:26:31",
+      "glucose": 211
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:36:27",
+      "glucose": 206
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:46:27",
+      "glucose": 203
+    },
+    {
+      "deviceDtTm": "2000-08-27 00:56:32",
+      "glucose": 199
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:06:29",
+      "glucose": 200
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:16:35",
+      "glucose": 199
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:26:28",
+      "glucose": 199
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:36:27",
+      "glucose": 192
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:46:35",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-27 01:56:32",
+      "glucose": 186
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:06:37",
+      "glucose": 182
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:16:31",
+      "glucose": 179
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:26:33",
+      "glucose": 175
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:36:34",
+      "glucose": 172
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:46:31",
+      "glucose": 171
+    },
+    {
+      "deviceDtTm": "2000-08-27 02:56:41",
+      "glucose": 159
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:06:36",
+      "glucose": 154
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:16:38",
+      "glucose": 154
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:26:34",
+      "glucose": 154
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:36:38",
+      "glucose": 149
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:46:42",
+      "glucose": 152
+    },
+    {
+      "deviceDtTm": "2000-08-27 03:56:40",
+      "glucose": 152
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:06:44",
+      "glucose": 146
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:16:38",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:26:45",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:36:40",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:46:44",
+      "glucose": 138
+    },
+    {
+      "deviceDtTm": "2000-08-27 04:56:42",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:06:44",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:16:48",
+      "glucose": 113
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:26:42",
+      "glucose": 107
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:36:46",
+      "glucose": 108
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:46:42",
+      "glucose": 108
+    },
+    {
+      "deviceDtTm": "2000-08-27 05:56:46",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:06:44",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:16:46",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:26:48",
+      "glucose": 100
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:36:47",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:46:53",
+      "glucose": 92
+    },
+    {
+      "deviceDtTm": "2000-08-27 06:56:55",
+      "glucose": 89
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:06:53",
+      "glucose": 86
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:16:53",
+      "glucose": 84
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:26:51",
+      "glucose": 85
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:36:53",
+      "glucose": 81
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:46:48",
+      "glucose": 82
+    },
+    {
+      "deviceDtTm": "2000-08-27 07:56:54",
+      "glucose": 93
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:06:52",
+      "glucose": 101
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:16:54",
+      "glucose": 107
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:26:57",
+      "glucose": 114
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:36:59",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:46:58",
+      "glucose": 120
+    },
+    {
+      "deviceDtTm": "2000-08-27 08:56:55",
+      "glucose": 125
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:06:55",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:16:57",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:26:58",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:36:57",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:46:55",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-27 09:56:57",
+      "glucose": 143
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:07:04",
+      "glucose": 142
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:17:06",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:27:00",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:37:05",
+      "glucose": 141
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:47:04",
+      "glucose": 140
+    },
+    {
+      "deviceDtTm": "2000-08-27 10:57:03",
+      "glucose": 139
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:07:07",
+      "glucose": 136
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:17:05",
+      "glucose": 135
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:27:04",
+      "glucose": 134
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:37:10",
+      "glucose": 129
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:47:06",
+      "glucose": 119
+    },
+    {
+      "deviceDtTm": "2000-08-27 11:57:09",
+      "glucose": 118
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:07:09",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:17:13",
+      "glucose": 117
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:27:13",
+      "glucose": 109
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:37:05",
+      "glucose": 103
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:47:10",
+      "glucose": 99
+    },
+    {
+      "deviceDtTm": "2000-08-27 12:57:10",
+      "glucose": 98
+    },
+    {
+      "deviceDtTm": "2000-08-27 13:07:13",
+      "glucose": 96
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:03:10",
+      "glucose": 110
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:13:15",
+      "glucose": 122
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:23:13",
+      "glucose": 137
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:33:15",
+      "glucose": 159
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:43:19",
+      "glucose": 174
+    },
+    {
+      "deviceDtTm": "2000-08-18 23:53:20",
+      "glucose": 190
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:03:20",
+      "glucose": 196
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:13:16",
+      "glucose": 201
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:23:16",
+      "glucose": 204
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:33:19",
+      "glucose": 209
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:43:19",
+      "glucose": 210
+    },
+    {
+      "deviceDtTm": "2000-08-19 00:53:19",
+      "glucose": 210
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:03:17",
+      "glucose": 211
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:13:18",
+      "glucose": 234
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:23:25",
+      "glucose": 243
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:33:27",
+      "glucose": 244
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:43:22",
+      "glucose": 262
+    },
+    {
+      "deviceDtTm": "2000-08-19 01:53:26",
+      "glucose": 240
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:03:25",
+      "glucose": 214
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:13:25",
+      "glucose": 216
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:23:28",
+      "glucose": 219
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:33:26",
+      "glucose": 219
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:43:26",
+      "glucose": 217
+    },
+    {
+      "deviceDtTm": "2000-08-19 02:53:31",
+      "glucose": 225
+    }
+  ]
+}
