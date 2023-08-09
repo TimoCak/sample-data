@@ -1,7 +1,8 @@
 use sample_data::model::{GlucoseMeasure, GlucoseMeasureEntry, Patient, PatientSummary};
-use std::{fs::write, fs::File, io::BufReader, io::Result, vec};
+use std::{fs::write, fs::File, io::BufReader, io::Result, vec, fs::create_dir};
 
 fn main() -> Result<()> {
+    create_dir("./OutputJson")?;
     filter_data()?;
     Ok(())
 }
